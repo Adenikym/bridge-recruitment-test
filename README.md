@@ -310,5 +310,3 @@ Release files are available on the repository under GitHub releases.
 
 For further questions or clarifications, contact:
 - Email: maryammudasiru@gmail.com
-#   b r i d g e - r e c r u i t m e n t - t e s t  
- 
