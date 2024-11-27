@@ -110,6 +110,9 @@ On loading the app:
 ## Demo Video
 
 
+https://github.com/user-attachments/assets/be68ec90-336a-4669-9a9a-84ab4b50419d
+
+
 
 ## Development Details
 
