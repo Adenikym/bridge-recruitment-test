@@ -1,5 +1,7 @@
 # Bridge Merchant Recruitment Test
 
+
+
 ## Overview
 
 This project is a mobile app product search catalog designed as part of the Bridge Merchant recruitment process. It aggregates products into categories, allowing users to search, view results, and manage search history. The app demonstrates skills in React Native, TypeScript, API integration, and clean code practices.
@@ -310,5 +312,6 @@ Release files are available on the repository under GitHub releases.
 
 For further questions or clarifications, contact:
 - Email: maryammudasiru@gmail.com
-#   b r i d g e - r e c r u i t m e n t - t e s t  
+#   b r i d g e - r e c r u i t m e n t - t e s t 
+ 
  
